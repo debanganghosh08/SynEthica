@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain_google_genai
+pandas
+numpy
+scikit-learn
+sdv
+python-dotenv
+google-genai
