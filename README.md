@@ -5,8 +5,6 @@
 [![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange)](https://langchain-ai.github.io/langgraph/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Team PRIME** | *E-Summit '25 Hackathon Submission*
->
 > *"Solving the Privacy-Utility-Fairness Trilemma through Autonomous Agentic Loops."*
 
 ---
